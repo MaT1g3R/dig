@@ -1,0 +1,10 @@
+{
+  "modid": "dig",
+  "name": "dig",
+  "author_list": ["MaT1g3R"],
+  "description": "Replace your starter relic with shovel",
+  "version": "0.1",
+  "sts_version": "07-30-2020",
+  "mts_version": "3.18.0",
+  "dependencies": ["basemod"]
+}
